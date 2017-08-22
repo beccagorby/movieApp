@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <!--
+        Customize this policy to fit your own app's needs. For more guidance, see:
+            https://github.com/apache/cordova-plugin-whitelist/blob/master/README.md#content-security-policy
+        Some notes:
+            * gap: is required only on iOS (when using UIWebView) and is needed for JS->native communication
+            * https://ssl.gstatic.com is required only on Android and is needed for TalkBack to function properly
+            * Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:
+                * Enable inline JS: add 'unsafe-inline' to default-src
+        -->
+        <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+        <link rel="shortcut icon" href="img/favicon.ico">
+        <!--<link rel="stylesheet" type="text/css" href="css/index.css">-->
+        <link rel="stylesheet" href="vendor/font-awesome-4.5.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/style.css">
+        <title>Couch Potato</title>
+    </head>
+    <body>
+
+        <header>
+            <i class="fa fa-bars menuBar"></i>
+            <img src="img/CPlogo.png" width="50" height="60">
+            <i class="fa fa-search searchBar"></i>
+        </header>
+
+        <div class="menu">
+            <h4>Genres</h4>
+            <ul>
+                <li>Action</li>
+                <li>Comedy</li>
+                <li>Drama</li>
+                <li>Kids</li>
+                <li>Horror</li>
+                <li>Documentary</li>
+            </ul>
+        </div>
+
+        <div class="app">
+            <h3>New Releases</h3>
+            <div class="movieHolder">
+                <div class="newMovies movies">
+                </div>
+            </div>
+
+            <h3>Action</h3>
+            <div class="movieHolder">
+                <div class="actionMovies movies">
+                </div>
+            </div>
+
+            <h3>Comedy</h3>
+            <div class="movieHolder">
+                <div class="comedyMovies movies">
+                </div>
+            </div>
+
+            <h3>Kids</h3>
+            <div class="movieHolder">
+                <div class="kidsMovies movies">
+                </div>
+            </div>
+
+            <h3>Horror</h3>
+            <div class="movieHolder">
+                <div class="horrorMovies movies">
+                </div>
+            </div>
+
+            <h3>Documentary</h3>
+            <div class="movieHolder">
+                <div class="docMovies movies">
+                </div>
+            </div>
+        </div>
+
+        <div class="showAll"><div class="backBtn"><i class="fa fa-chevron-left"></i>Back</div></div>
+
+        <script type="text/javascript" src="cordova.js"></script>
+        <script src="vendor/jquery-1.11.3.min.js"></script>
+        <script src="vendor/jquery.transit.min.js"></script>
+        <script type="text/javascript" src="js/data.js"></script>
+        <script type="text/javascript" src="js/app.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+    </body>
+</html>

@@ -1,0 +1,357 @@
+{
+  "movies": [
+    {
+      "id": "0",
+      "title": "Mission: Impossible - Rogue Nation",
+      "desc": "Ethan and team take on their most impossible mission yet, eradicating the Syndicate - an International rogue organization as highly skilled as they are, committed to destroying the IMF.",
+      "imgURL": "img/covers/MIroguenation.jpg",
+      "year": "2015",
+      "time": "131 mins",
+      "genre": "Action"
+    },
+    {
+      "id": "1",
+      "title": "Maze Runner: The Scorch Trials",
+      "desc": "After having escaped the Maze, the Gladers now face a new set of challenges on the open roads of a desolate landscape filled with unimaginable obstacles.",
+      "imgURL": "img/covers/Mazerunner.jpg",
+      "year": "2015",
+      "time": "132 mins",
+      "genre": "Action"
+    },
+    {
+      "id": "2",
+      "title": "Ted 2",
+      "desc": "Newlywed couple Ted and Tami-Lynn want to have a baby, but in order to qualify to be a parent, Ted will have to prove he's a person in a court of law.",
+      "imgURL": "img/covers/Ted2.jpg",
+      "year": "2015",
+      "time": "115 mins",
+      "genre": "Comedy"
+    },
+    {
+      "id": "3",
+      "title": "Fantastic Four",
+      "desc": "Four young outsiders teleport to an alternate and dangerous universe which alters their physical form in shocking ways. The four must learn to harness their new abilities and work together to save Earth from a former friend turned enemy.",
+      "imgURL": "img/covers/fantastic4.jpg",
+      "year": "2015",
+      "time": "100 mins",
+      "genre": "Action"
+    },
+    {
+      "id": "4",
+      "title": "He Named Me Malala",
+      "desc": "A look at the events leading up to the Taliban's attack on Pakistani schoolgirl, Malala Yousafzai, for speaking out on girls' education followed by the aftermath, including her speech to the United Nations.",
+      "imgURL": "img/covers/henamedmemalala.jpg",
+      "year": "2015",
+      "time": "88 mins",
+      "genre": "Documentary"
+    },
+    {
+      "id": "5",
+      "title": "Time Out Of Mind",
+      "desc": "George seeks refuge at Bellevue Hospital, a Manhattan intake center for homeless men, where his friendship with a fellow client helps him try to repair his relationship with his estranged daughter.",
+      "imgURL": "img/covers/timeoutofmind.jpg",
+      "year": "2014",
+      "time": "120 mins",
+      "genre": "Drama"
+    },
+    {
+      "id": "6",
+      "title": "Oculus",
+      "desc": "A woman tries to exonerate her brother, who was convicted of murder, by proving that the crime was committed by a supernatural phenomenon.",
+      "imgURL": "img/covers/oculus.jpg",
+      "year": "2013",
+      "time": "104 mins",
+      "genre": "Horror"
+    },
+    {
+      "id": "7",
+      "title": "The Best Of Me",
+      "desc": "A pair of former high school sweethearts reunite after many years when they return to visit their small hometown.",
+      "imgURL": "img/covers/thebestofme.jpg",
+      "year": "2014",
+      "time": "118 mins",
+      "genre": "Drama"
+    },
+    {
+      "id": "8",
+      "title": "Silver Linings Playbook",
+      "desc": "After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.",
+      "imgURL": "img/covers/silverliningsplaybook.jpg",
+      "year": "2012",
+      "time": "122 mins",
+      "genre": "Comedy"
+    },
+    {
+      "id": "9",
+      "title": "The Switch",
+      "desc": "Seven years after the fact, a man comes to the realization that he was the sperm donor for his best friend's boy.",
+      "imgURL": "img/covers/theswitch.jpg",
+      "year": "2010",
+      "time": "101 mins",
+      "genre": "Comedy"
+    },
+    {
+      "id": "10",
+      "title": "And So It Goes",
+      "desc": "A self-absorbed realtor enlists the help of his neighbor when he's suddenly left in charge of the granddaughter he never knew existed until his estranged son drops her off at his home.",
+      "imgURL": "img/covers/andsoitgoes.jpg",
+      "year": "2014",
+      "time": "94 mins",
+      "genre": "Comedy"
+    },
+    {
+      "id": "11",
+      "title": "The Interview",
+      "desc": "Dave Skylark and producer Aaron Rapoport run the celebrity tabloid show 'Skylark Tonight.' When they land an interview with a surprise fan, North Korean dictator Kim Jong-un, they are recruited by the CIA to turn their trip to Pyongyang into an assassination mission.",
+      "imgURL": "img/covers/theinterview.jpg",
+      "year": "2014",
+      "time": "112 mins",
+      "genre": "Comedy"
+    },
+    {
+      "id": "12",
+      "title": "3 Days to Kill",
+      "desc": "A dying CIA agent trying to reconnect with his estranged daughter is offered an experimental drug that could save his life in exchange for one last assignment.",
+      "imgURL": "img/covers/3daystokill.jpg",
+      "year": "117",
+      "time": "2014",
+      "genre": "Action"
+    },
+    {
+      "id": "13",
+      "title": "Penguins of Madagascar",
+      "desc": "Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine from destroying the world as we know it.",
+      "imgURL": "img/covers/penguinsOfMad.jpg",
+      "year": "2014",
+      "time": "92 mins",
+      "genre": "Kids"
+    },
+    {
+      "id": "14",
+      "title": "Mr. Peabody and Sherman",
+      "desc": "The time-travelling adventures of an advanced canine and his adopted son, as they endeavor to fix a time rift they created.",
+      "imgURL": "img/covers/mrpeabodyandsherman.jpg",
+      "year": "2014",
+      "time": "92 mins",
+      "genre": "Kids"
+    },
+    {
+      "id": "15",
+      "title": "Beyond The Lights",
+      "desc": "The pressures of fame have superstar singer Noni on the edge, until she meets Kaz, a young cop who works to help her find the courage to develop her own voice and break free to become the artist she was meant to be.",
+      "imgURL": "img/covers/beyondTheLights.jpg",
+      "year": "2014",
+      "time": "116 mins",
+      "genre": "Drama"
+    },
+    {
+      "id": "16",
+      "title": "Daddy Day Care",
+      "desc": "Two men get laid off and have to become stay-at-home dads when they can't find jobs. This inspires them to open their own day-care center.",
+      "imgURL": "img/covers/daddydaycare.jpg",
+      "year": "2003",
+      "time": "93 mins",
+      "genre": "Comedy"
+    },
+    {
+      "id": "17",
+      "title": "Black or White",
+      "desc": "A grieving widower is drawn into a custody battle over his granddaughter, whom he helped raise her entire life.",
+      "imgURL": "img/covers/blackOrWhite.jpg",
+      "year": "2015",
+      "time": "121 mins",
+      "genre": "Drama"
+    },
+    {
+      "id": "18",
+      "title": "The Cobbler",
+      "desc": "A cobbler, bored of his every-day life, stumbles upon a magical heirloom that allows him to become other people and see the world in a different way.",
+      "imgURL": "img/covers/thecobbler.jpg",
+      "year": "2015",
+      "time": "99 mins",
+      "genre": "Comedy"
+    },
+    {
+      "id": "19",
+      "title": "Homefront",
+      "desc": "A former DEA agent moves his family to a quiet town, where he soon tangles with a local meth druglord.",
+      "imgURL": "img/covers/homefront.jpg",
+      "year": "2013",
+      "time": "100 mins",
+      "genre": "Action"
+    },
+    {
+      "id": "20",
+      "title": "Mean Girl 2",
+      "desc": "The Plastics are back in the long awaited follow-up to the smash-hit Mean Girls... and now the clique is more fashionable, funny and ferocious than ever!",
+      "imgURL": "img/covers/meangirls2.jpg",
+      "year": "2011",
+      "time": "96 mins",
+      "genre": "Comedy"
+    },
+    {
+      "id": "21",
+      "title": "Pocahontas",
+      "desc": "An English soldier and the daughter of an Algonquin chief share a romance when English colonists invade seventeenth-century Virginia.",
+      "imgURL": "img/covers/pocahontas.jpg",
+      "year": "1995",
+      "time": "81 mins",
+      "genre": "Kids"
+    },
+    {
+      "id": "22",
+      "title": "Mulan",
+      "desc": "To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.",
+      "imgURL": "img/covers/mulan.jpg",
+      "year": "1998",
+      "time": "88 mins",
+      "genre": "Kids"
+    },
+    {
+      "id": "23",
+      "title": "The Fox and The Hound",
+      "desc": "Two childhood friends find themselves forced to become enemies.",
+      "imgURL": "img/covers/thefoxandthehound.jpg",
+      "year": "1981",
+      "time": "83 mins",
+      "genre": "Kids"
+    },
+    {
+      "id": "24",
+      "title": "Lilo and Stitch",
+      "desc": "A Hawaiian girl adopts an unusual pet who is actually a notorious extra-terrestrial fugitive from the law.",
+      "imgURL": "img/covers/liloAndStitch.jpg",
+      "year": "2002",
+      "time": "85 mins",
+      "genre": "Kids"
+    },
+    {
+      "id": "25",
+      "title": "Fed Up",
+      "desc": "An examination of America's obesity epidemic and the food industry's role in aggravating it.",
+      "imgURL": "img/covers/fedup.jpg",
+      "year": "2014",
+      "time": "92 mins",
+      "genre": "Documentary"
+    },
+    {
+      "id": "26",
+      "title": "Love Me",
+      "desc": "Love Me is a character-drive narrative that follows desperate men on their quest for love through the modern 'mail-order bride' industry in Ukraine. The film highlights the complete process of finding a partner in a foreign land, showing the Western male and Ukrainian female perspectives.",
+      "imgURL": "img/covers/loveMe.jpg",
+      "year": "2014",
+      "time": "90 mins",
+      "genre": "Documentary"
+    },
+    {
+      "id": "27",
+      "title": "Tricked",
+      "desc": "This character-driven film considers the evolving sex trafficking landscape as seen by the main players: the exploited, the pimps, the johns that fuel the business, and the cops who fight to stop it.",
+      "imgURL": "img/covers/tricked.jpg",
+      "year": "2013",
+      "time": "76 mins",
+      "genre": "Documentary"
+    },
+    {
+      "id": "28",
+      "title": "The Wildest Dream",
+      "desc": "Uses astonishing visuals to tell the intersecting stories of George Mallory, the first man to attempt a summit of Mount Everest, and Conrad Anker, the mountaineer who finds Mallory's frozen remains 75 years later.",
+      "imgURL": "img/covers/wildestdream.jpg",
+      "year": "2010",
+      "time": "94 mins",
+      "genre": "Documentary"
+    },
+    {
+      "id": "29",
+      "title": "Dream House",
+      "desc": "Soon after moving into their seemingly idyllic new home, a family learns of a brutal crime committed against former residents of the dwelling.",
+      "imgURL": "img/covers/dreamHouse.jpg",
+      "year": "2011",
+      "time": "92 mins",
+      "genre": "Horror"
+    },
+    {
+      "id": "30",
+      "title": "Devil",
+      "desc": "A group of people are trapped in an elevator and the Devil is mysteriously amongst them.",
+      "imgURL": "img/covers/devil.jpg",
+      "year": "2010",
+      "time": "80 mins",
+      "genre": "Horror"
+    },
+    {
+      "id": "31",
+      "title": "Dark Skies",
+      "desc": "As the Barret family's peaceful suburban life is rocked by an escalating series of disturbing events, they come to learn that a terrifying and deadly force is after them.",
+      "imgURL": "img/covers/darkskies.jpg",
+      "year": "2013",
+      "time": "97 mins",
+      "genre": "Horror"
+    },
+    {
+      "id": "32",
+      "title": "13 Sins",
+      "desc": "A cryptic phone call sets off a dangerous game of risks for Elliot, a down-on-his luck salesman. The game promises increasing rewards for completing 13 tasks, each more sinister than the last.",
+      "imgURL": "img/covers/13sins.jpg",
+      "year": "2014",
+      "time": "93 mins",
+      "genre": "Horror"
+    },
+    {
+      "id": "33",
+      "title": "The Awakening",
+      "desc": "In 1921, England is overwhelmed by the loss and grief of World War I. Hoax exposer Florence Cathcart visits a boarding school to explain sightings of a child ghost. Everything she believes unravels as the 'missing' begin to show themselves.",
+      "imgURL": "img/covers/theawakening.jpg",
+      "year": "2011",
+      "time": "107 mins",
+      "genre": "Horror"
+    },
+    {
+      "id": "34",
+      "title": "Mercy",
+      "desc": "A single mom and her two boys help take care of their grandmother with mystical powers.",
+      "imgURL": "img/covers/mercy.jpg",
+      "year": "2014",
+      "time": "79 mins",
+      "genre": "Horror"
+    },
+    {
+      "id": "35",
+      "title": "The Houses October Built",
+      "desc": "Looking to find an authentic, blood-curdling good fright for Halloween, five friends set off on a road trip in an RV to track down these underground Haunts. Just when their search seems to reach a dead end, strange and disturbing things start happening and it becomes clear that the Haunt has come to them.",
+      "imgURL": "img/covers/thehouseoctbiult.jpg",
+      "year": "2014",
+      "time": "112 mins",
+      "genre": "Horror"
+    },
+    {
+      "id": "36",
+      "title": "Housebound",
+      "desc": "Kylie Bucknell is forced to return to the house she grew up in when the court places her on home detention. Her punishment is made all the more unbearable by the fact she has to live there with her mother Miriam - a well-intentioned blabbermouth who's convinced that the house is haunted. Kylie dismisses Miriam's superstitions as nothing more than a distraction from a life occupied by boiled vegetables & small-town gossip. However, when she too becomes privy to unsettling whispers & strange bumps in the night, she begins to wonder whether she's inherited her overactive imagination, or if the house is in fact possessed by a hostile spirit who's less than happy about the new living arrangement.",
+      "imgURL": "img/covers/housebound.jpg",
+      "year": "2014",
+      "time": "107 mins",
+      "genre": "Horror"
+    },
+    {
+      "id": "37",
+      "title": "Left Behind",
+      "desc": "A small group of survivors are left behind after millions of people suddenly vanish and the world is plunged into chaos and destruction.",
+      "imgURL": "img/covers/leftbehind.jpg",
+      "year": "2014",
+      "time": "110 mins",
+      "genre": "Action"
+    },
+    {
+      "id": "38",
+      "title": "Survivor",
+      "desc": "A Foreign Service Officer in London tries to prevent a terrorist attack set to hit New York, but is forced to go on the run when she is framed for crimes she did not commit.",
+      "imgURL": "img/covers/survivor.jpg",
+      "year": "2015",
+      "time": "96 mins",
+      "genre": "Action"
+    }
+  ],
+
+  "genres": ["Action", "Comedy", "Kids", "Horror", "Documentary"]
+}
